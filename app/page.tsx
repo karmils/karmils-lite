@@ -338,17 +338,3 @@ export default function Home() {
     </div>
   );
 }
-# Conclusion
-
-Karmil Streams proposes ...
-
-Continuity is structurally organized by phase coherence.
-
----
-
-## Citation
-
-Karmil Streams (2026). *A Phase-Oriented Paradigm of Continuous Systems.* Retrieved from https://www.karmils.com
-
-`;
-
