@@ -7,47 +7,60 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
 const content = `
-# <center>Karmil Streams</center>  
-## <center>A Phase-Oriented Paradigm of Continuous Systems</center>  
-### Toward a Unified Architecture of Streams  
+# <div style="text-align:center">Karmil Streams</div>
+## <div style="text-align:center">A Phase-Oriented Paradigm of Continuous Systems</div>
+### <div style="text-align:center">Toward a Unified Architecture of Streams</div>
 
 ---
 
 ## Abstract
 
-Karmil Streams is an evolving phase-structural paradigm dedicated to the analysis of continuous dynamic systems. In contrast to spectral, statistical, nonlinear, and chaos-based frameworks, this theory posits that structural stability, transformation, and systemic resilience are governed primarily by phase coherence rather than by amplitude magnitude, energy accumulation, or probabilistic distribution alone.
+Karmil Streams is an evolving phase-structural paradigm dedicated to the analysis of continuous dynamic systems. In contrast to spectral, statistical, nonlinear, and chaos-based frameworks, this theory posits that structural stability, transformation, and systemic resilience are governed primarily by **phase coherence** rather than by amplitude magnitude, energy accumulation, or probabilistic distribution alone.
 
-Continuity is treated not as a secondary artifact of discretized measurement, but as a structural invariant organized through phase topology.
+Continuity is treated not as a by-product of discretized observation, but as a structural invariant organized through phase topology. This position establishes continuity as a primary structural condition rather than a secondary interpretative artifact.
 
-The system remains in structured formation and mathematical refinement.
+The framework proposes a unified architecture of streams in which dynamic systems are interpreted as hierarchically embedded phase structures governed by coherence gradients. These gradients determine structural adaptability, resilience, and transformation potential.
+
+The system remains in structured formation and ongoing mathematical refinement, with emphasis on formalization, empirical applicability, and cross-domain generalization.
 
 ---
 
 # 1. Historical Motivation
 
-Modern science demonstrates remarkable analytical precision:
+Modern science demonstrates exceptional analytical precision:
 
 - Fourier decomposition  
-- stochastic modeling  
-- nonlinear dynamics  
-- attractor theory  
+- probabilistic modeling  
+- nonlinear simulation  
+- attractor analysis  
 - chaos modeling  
 
-Yet a structural limitation persists:
+However, a structural limitation persists:
 
-Continuous systems are fragmented during reduction.
+Continuous systems are frequently fragmented during analytical reduction.
 
-Karmil Streams emerged from the hypothesis:
+Discretization, while methodologically necessary, obscures relational phase structure and weakens the interpretative integrity of continuity-based systems.
+
+Karmil Streams emerged from a central hypothesis:
 
 Continuity must remain structurally preserved within analysis.
+
+Rather than decomposing systems into isolated states, the paradigm preserves relational phase coherence across temporal evolution. This enables examination of systems not merely as sequences of states, but as dynamically organized continuities.
 
 ---
 
 # 2. Ontology of Stream
 
-Reality is interpreted not as static objects but as structured continuities — streams.
+Reality is interpreted not as a collection of static entities, but as structured continuities — streams.
 
-A stream is organized continuity characterized by internal phase topology.
+A stream is defined as organized continuity characterized by:
+
+- internal phase topology  
+- coherence gradients  
+- hierarchical embedding  
+- structural tension  
+
+This ontology shifts the analytical emphasis from static existence to relational continuity.
 
 Classical ontology emphasizes:
 
@@ -59,9 +72,7 @@ Stream ontology emphasizes:
 
 - relational positioning  
 - cyclic coherence  
-- hierarchical embedding  
-
-This parallels historical transitions:
+- embedded structural interdependence  
 
 | From | To |
 |------|----|
@@ -69,13 +80,13 @@ This parallels historical transitions:
 | Static entity | Dynamic relation |
 | Discrete state | Structured continuity |
 
-Phase coherence is proposed as structural invariant.
+Phase coherence is proposed as structural invariant governing stability and transformation. Structural identity arises not from permanence, but from sustained relational alignment.
 
 ---
 
 # 3. Phase as Primary Structural Principle
 
-In classical systems, phase is secondary.
+In conventional physics, phase is often secondary to amplitude.
 
 In Karmil Streams, phase is ontologically primary.
 
@@ -85,63 +96,71 @@ Stability = phase alignment
 Phase expresses:
 
 - synchrony  
-- structural tension  
 - relational position  
-- coherence alignment  
+- internal structural tension  
+- coherence gradient  
 
-Instability emerges from phase divergence.
+Instability emerges when phase divergence exceeds structural tolerance. Structural degradation therefore begins not with energy loss, but with relational misalignment within the phase field.
 
 ---
 
 # 4. Core Phase Tendencies
 
-- **downphase** — centripetal concentration  
-- **outphase** — centrifugal expansion  
+- **downphase** — centripetal structural concentration  
+- **outphase** — centrifugal structural expansion  
 - **rephase** — restoration of coherence  
-- **dephase** — structural misalignment  
-- **mega-phase** — integrative equilibrium  
+- **dephase** — destructive divergence  
+- **mega-phase** — integrative equilibrium across hierarchical layers  
 
-These describe directional structural tendencies.
+These represent structural tendencies rather than binary states. Systems may exhibit simultaneous tendencies across hierarchical levels, forming complex coherence landscapes.
 
 ---
 
 # 5. Structural Parameters
 
-- D_φ — phase density  
-- E_str — structural energy  
-- phase_str — phase topology  
-- K_l — local coherence coefficient  
-- V_sw — vortex structural velocity  
-- K_eq — equilibrium constant  
-- F_ext — external perturbation  
+The internal geometry of a stream is described through phase-structural parameters:
 
-Together they define the internal geometry of a stream.
+- **D_φ** — phase density  
+- **E_str** — structural energy  
+- **D_str** — structural disfusion parameter  
+- **K_l** — local coherence coefficient  
+- **V_sw** — vortex structural velocity  
+- **K_eq** — equilibrium constant  
+- **F_ext** — external perturbation  
+
+Together they define the measurable phase field of a stream. Their interactions form the structural signature of a dynamic continuity and determine its adaptability to perturbations.
 
 ---
 
 # 6. Mathematical Orientation (Preliminary)
 
-Stream representation:
+A stream may be represented functionally as:
 
 $$
 S(t) = f(E_{str}(t), D_\\varphi(t), \\varphi(t), K_l(t), F_{ext}(t))
 $$
 
-Structural stability:
+Structural stability approximation:
 
 $$
 Stability \\approx \\int K_l(t) \\cdot \\cos(\\Delta \\varphi(t)) dt
 $$
 
-Coherence functional:
+General coherence functional:
 
 $$
 C = \\int \\frac{K_l(t)}{|\\nabla \\varphi(t)|} dt
 $$
 
+Phase divergence condition:
+
+$$
+\\text{Instability occurs when } |\\Delta \\varphi(t)| > \\varphi_{crit}
+$$
+
 Coherence increases as $\\Delta \\varphi \\to 0$.
 
-These formulations remain under mathematical refinement.
+These formulations remain under progressive formal mathematical refinement and serve as structural approximations rather than closed analytical models.
 
 ---
 
@@ -149,16 +168,16 @@ These formulations remain under mathematical refinement.
 
 Multiplex Stream = Megastream.
 
-No stream exists in isolation.
+No stream exists in isolation. Each stream operates as a structural layer within a broader continuity architecture.
 
 Principles:
 
 - hierarchical embedding  
 - scale invariance  
-- cross-stream coherence  
-- phase universality  
+- cross-stream phase correlation  
+- structural universality  
 
-Local dynamics are expressions of a broader megastream architecture.
+All local streams are embedded expressions within a broader megastream architecture. Systemic stability depends on coherence alignment across scales rather than local optimization alone.
 
 ---
 
@@ -166,42 +185,31 @@ Local dynamics are expressions of a broader megastream architecture.
 
 Stream Analyzer functions as:
 
-- research instrument  
-- coherence diagnostic engine  
-- modeling laboratory  
-- comparative analytical system  
+- phase diagnostic engine  
+- research laboratory  
+- modeling platform  
+- comparative structural instrument  
 
 ## Developmental Phases
 
 ### Early Stage
 - single-stream visualization  
 - parameter extraction  
+- local coherence mapping  
 
 ### Intermediate Stage
-- structural comparison  
 - pilot modeling  
+- comparative structural diagnostics  
+- pattern identification across streams  
 
 ### Advanced Modules
 
-**Pilot Analyzer**  
-Controlled theoretical validation.
+**Pilot Analyzer** — controlled theoretical validation  
+**Corpus Analyzer** — large-scale comparative stream evaluation  
+**Analyses Module** — phase correlation, structural deviation detection  
+**A/B Mode** — dual-stream comparative coherence diagnostics  
 
-**Corpus Analyzer**  
-Large-scale comparative evaluation.
-
-**Analyses Module**
-- phase correlation  
-- structural deviation  
-- transition detection  
-- vortex identification  
-- stability gradient estimation  
-
-**A/B Mode**
-- coherence divergence  
-- asymmetry index  
-- resilience contrast  
-
-The platform evolves toward research-grade infrastructure.
+The platform evolves toward research-grade analytical infrastructure intended for interdisciplinary deployment.
 
 ---
 
@@ -228,14 +236,6 @@ The platform evolves toward research-grade infrastructure.
       <td>7</td>
     </tr>
     <tr>
-      <td>Statistical Models</td>
-      <td>Pearson, Fisher</td>
-      <td>6</td>
-      <td>3</td>
-      <td>8</td>
-      <td>8</td>
-    </tr>
-    <tr>
       <td>Nonlinear Dynamics</td>
       <td>Strogatz</td>
       <td>8</td>
@@ -260,60 +260,12 @@ The platform evolves toward research-grade infrastructure.
       <td>7</td>
     </tr>
     <tr>
-      <td>Synergetics</td>
-      <td>Hermann Haken</td>
-      <td>8</td>
-      <td>6</td>
-      <td>8</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>Catastrophe Theory</td>
-      <td>René Thom</td>
-      <td>7</td>
-      <td>6</td>
-      <td>7</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Topological Structuralism</td>
-      <td>Henri Poincaré</td>
-      <td>8</td>
-      <td>7</td>
-      <td>8</td>
-      <td>7</td>
-    </tr>
-    <tr>
       <td>Music Set Theory</td>
       <td>Allen Forte</td>
       <td>6</td>
       <td>4</td>
       <td>6</td>
       <td>5</td>
-    </tr>
-    <tr>
-      <td>Generative Tonal Theory</td>
-      <td>Lerdahl & Jackendoff</td>
-      <td>7</td>
-      <td>5</td>
-      <td>6</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Acoustic Harmonic Theory</td>
-      <td>Helmholtz</td>
-      <td>7</td>
-      <td>6</td>
-      <td>7</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>Neural Oscillation Models</td>
-      <td>Freeman</td>
-      <td>7</td>
-      <td>7</td>
-      <td>8</td>
-      <td>8</td>
     </tr>
     <tr>
       <td><strong>Karmil Streams</strong></td>
@@ -326,65 +278,35 @@ The platform evolves toward research-grade infrastructure.
   </tbody>
 </table>
 
-
-Universality reflects applicability to any structured continuous system governed by phase relations.
+Universality reflects theoretical applicability to any structured continuous system governed by phase relations. Diagnostic capacity indicates the ability to detect structural transitions and coherence disruption.
 
 ---
 
 # 10. Interdisciplinary Implications
 
-**Medicine**  
-Cardiac phase diagnostics; neural coherence mapping; systemic resilience modeling.
-
-**Physics**  
-Wave interaction; turbulence topology; phase transition structures.
-
-**Mathematics**  
-Phase-invariant topology; integral coherence structures.
-
-**Psychology**  
-Cognitive phase transitions; resilience dynamics.
-
-**Social Sciences**  
-Collective synchronization; macrostructural transitions.
+**Medicine** — cardiac phase diagnostics, neural coherence mapping, adaptive physiological monitoring.  
+**Physics** — wave interaction topology, turbulence structures, coherence-based stability analysis.  
+**Mathematics** — phase-invariant topological modeling, structural continuity mapping.  
+**Psychology** — cognitive phase transitions, resilience dynamics, behavioral coherence patterns.  
+**Social Sciences** — macrostructural synchronization modeling, systemic transformation analysis.
 
 ---
 
-# 11. Origin of Development
-
-The theory was developed through independent structural inquiry outside traditional institutional frameworks.
-
-Its evolution followed cross-disciplinary synthesis rather than narrow specialization, allowing structural coherence to emerge as unifying principle.
-
----
-
-# 12. Epistemological Position
-
-Karmil Streams does not replace existing paradigms.
-
-It introduces:
-
-Phase coherence as invariant structural diagnostic layer.
-
-The framework is integrative, hierarchical, and process-oriented.
-
----
-
-# 13. Development Status
+# 11. Development Status
 
 Established:
 
 - phase ontology  
 - Unified System  
-- analytical platform  
+- analytical infrastructure  
 
 Ongoing:
 
-- mathematical formalization  
+- formal mathematical validation  
 - algorithmic refinement  
-- empirical validation  
+- empirical corpus expansion  
 
-The system remains in structured formation.
+The system remains in structured formation with progressive theoretical consolidation and methodological expansion.
 
 ---
 
@@ -393,64 +315,85 @@ The system remains in structured formation.
 Karmil Streams proposes:
 
 - a phase-oriented ontology of continuity  
-- a unified architecture of streams  
+- a unified architecture of structured streams  
 - an analytical infrastructure for coherence diagnostics  
 
-Its central proposition remains:
-
-Continuity is structurally organized by phase coherence.
+Continuity is structurally organized by phase coherence. Structural transformation emerges from phase realignment, not merely energetic fluctuation.
 
 ---
 
-### Version
-
-Karmil Streams — Version 0.1  
-In structured formation  
-2026
+### <div style="text-align:center">Version</div>
+<div style="text-align:center">Karmil Streams — Version 0.1</div>
+<div style="text-align:center">2026</div>
 `;
 
 export default function Home() {
   return (
-    <main style={{
-      maxWidth: "1100px",
-      margin: "100px auto",
-      padding: "0 40px",
-      fontFamily: "Times New Roman, serif",
-      fontSize: "20px",
-      lineHeight: 1.9,
-      color: "#111111",
-      background: "#FAFAFA"
-    }}>
-      <ReactMarkdown
-        remarkPlugins={[remarkMath]}
-        rehypePlugins={[rehypeRaw, rehypeKatex]}
-        components={{
-          table: ({ children }) => (
-            <table style={{
-              margin: "60px auto",
-              borderCollapse: "collapse",
-              textAlign: "center",
-              backgroundColor: "#ffffff",
-              minWidth: "800px"
-            }}>{children}</table>
-          ),
-          th: ({ children }) => (
-            <th style={{
-              border: "1px solid #bbb",
-              padding: "14px",
-              background: "#f8f8f8"
-            }}>{children}</th>
-          ),
-          td: ({ children }) => (
-            <td style={{
-              border: "1px solid #ccc",
-              padding: "14px"
-            }}>{children}</td>
-          )
+    <div style={{ background: "#F2F4F8", minHeight: "100vh", padding: "80px 0" }}>
+      <main
+        style={{
+          maxWidth: "1200px",
+          margin: "0 auto",
+          padding: "100px 100px",
+          background: "#ffffff",
+          fontFamily: "Times New Roman, serif",
+          fontSize: "22px",
+          lineHeight: 1.9,
+          color: "#031058",
+          border: "5px double #031058"
         }}
       >
-        {content}
-      </ReactMarkdown>
-    </main>
+        <ReactMarkdown
+          remarkPlugins={[remarkMath]}
+          rehypePlugins={[rehypeRaw, rehypeKatex]}
+          components={{
+            table: ({ children }) => (
+              <table
+                style={{
+                  width: "100%",
+                  borderCollapse: "collapse",
+                  margin: "70px 0",
+                  fontSize: "20px",
+                  color: "#031058"
+                }}
+              >
+                {children}
+              </table>
+            ),
+            th: ({ children }) => (
+              <th
+                style={{
+                  borderBottom: "2px solid #031058",
+                  padding: "16px",
+                  fontWeight: 700,
+                  textAlign: "center"
+                }}
+              >
+                {children}
+              </th>
+            ),
+            td: ({ children }) => (
+              <td
+                style={{
+                  borderBottom: "1px solid #c9d0e3",
+                  padding: "16px",
+                  textAlign: "center"
+                }}
+              >
+                {children}
+              </td>
+            )
+          }}
+        >
+          {content}
+        </ReactMarkdown>
+      </main>
+
+      <style jsx global>{`
+        .katex {
+          color: #031058;
+        }
+      `}</style>
+    </div>
   );
 }
