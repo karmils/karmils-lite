@@ -1,97 +1,187 @@
+:root {
+  --ink: #031058;
+  --bg: #f4f6fa;
+  --paper: #ffffff;
+  --line: #031058;
+  --lineSoft: #c9d2e6;
+  --headBg: #e9edf5;
+  --zebra: #f7f9fc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .page-wrapper {
-  background: #F4F6FA;
+  background: var(--bg);
   min-height: 100vh;
-  padding: 60px 20px;
+  padding: 64px 0;
 }
 
 .page-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 60px 80px;
-  background: #ffffff;
+  background: var(--paper);
+  border: 2px double var(--line); /* тоньше */
+  padding: 72px 72px;
+  color: var(--ink);
   font-family: "Times New Roman", serif;
-  font-size: 20px;
-  line-height: 1.9;
-  color: #031058;
-  border: 2px double #031058;
+  font-size: 22px;
+  line-height: 1.95;
 }
 
-/* Mobile adaptation */
-@media (max-width: 768px) {
-  .page-container {
-    padding: 30px 20px;
-    font-size: 17px;
-  }
+/* Titles centered, like academic front-page */
+.page-container h1,
+.page-container h2,
+.page-container h3 {
+  text-align: center;
+  margin: 0;
 }
 
-/* Tables */
-table {
+.page-container h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.page-container h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.page-container h3 {
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 28px;
+}
+
+/* Make markdown look clean */
+.page-container hr {
+  border: none;
+  border-top: 1px solid var(--lineSoft);
+  margin: 26px 0;
+}
+
+.page-container p {
+  margin: 14px 0;
+}
+
+.page-container ul {
+  margin: 10px 0 18px 26px;
+}
+
+.page-container li {
+  margin: 6px 0;
+}
+
+/* TABLES (desktop + mobile) */
+.page-container table {
   width: 100%;
+  max-width: 100%;
   border-collapse: collapse;
-  margin: 60px 0;
-  border: 1px solid #031058;
+  border: 1.25px solid var(--line);
+  margin: 36px 0;
+  background: #fff;
 }
 
-thead {
-  background: #e9edf5;
+/* Header */
+.page-container thead th {
+  background: var(--headBg);
 }
 
-th {
-  border: 1px solid #031058;
-  padding: 12px;
+.page-container th,
+.page-container td {
+  border: 1px solid var(--lineSoft);
+  padding: 12px 10px;
   text-align: center;
-  font-weight: 700;
+  vertical-align: top;
 }
 
-td {
-  border: 1px solid #c9d2e6;
-  padding: 12px;
-  text-align: center;
+/* Strong outer frame */
+.page-container table tr:first-child th {
+  border-top: 1.25px solid var(--line);
+}
+.page-container table tr td:first-child,
+.page-container table tr th:first-child {
+  border-left: 1.25px solid var(--line);
+}
+.page-container table tr td:last-child,
+.page-container table tr th:last-child {
+  border-right: 1.25px solid var(--line);
+}
+.page-container table tbody tr:last-child td {
+  border-bottom: 1.25px solid var(--line);
 }
 
-tbody tr:nth-child(odd) {
-  background: #f7f9fc;
+/* Zebra striping */
+.page-container tbody tr:nth-child(odd) td {
+  background: var(--zebra);
+}
+.page-container tbody tr:nth-child(even) td {
+  background: #ffffff;
 }
 
-/* Mobile table scroll */
-@media (max-width: 768px) {
-  table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
+/* Prevent ugly word-per-line on mobile */
+.page-container td,
+.page-container th {
+  word-break: normal;
+  overflow-wrap: anywhere;
 }
-/* ===== KATEX FORMULAS RESPONSIVE ===== */
 
+/* Math color */
+.katex {
+  color: var(--ink);
+}
+
+/* IMPORTANT: prevent formulas from breaking layout */
 .katex-display {
+  max-width: 100%;
   overflow-x: auto;
   overflow-y: hidden;
-  padding: 10px 0;
+  padding: 6px 0;
 }
-
 .katex-display > .katex {
-  white-space: nowrap;
-}
-
-.katex {
   max-width: 100%;
 }
 
-/* ===== TABLE RESPONSIVE WRAPPER ===== */
+/* MOBILE */
+@media (max-width: 900px) {
+  .page-wrapper {
+    padding: 28px 0;
+  }
 
-table {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-  border-collapse: collapse;
-  -webkit-overflow-scrolling: touch;
-}
+  .page-container {
+    padding: 28px 18px;
+    font-size: 18px;
+    border-width: 2px;
+  }
 
-table thead {
-  background: #e9edf5;
-}
+  .page-container h1 {
+    font-size: 30px;
+  }
+  .page-container h2 {
+    font-size: 20px;
+  }
+  .page-container h3 {
+    font-size: 18px;
+  }
 
-table th,
-table td {
-  white-space: nowrap;
+  /* Tables: horizontal scroll instead of overflow */
+  .page-container table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+
+  .page-container th,
+  .page-container td {
+    padding: 10px 8px;
+  }
 }
