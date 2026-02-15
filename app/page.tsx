@@ -8,7 +8,7 @@ import rehypeKatex from "rehype-katex";
 
 const content = `
 # <center>Karmil Streams</center>  
-## <center>A Phase-Oriented Paradigm of Continuous Systems</center></center>  
+## <center>A Phase-Oriented Paradigm of Continuous Systems</center>  
 ### Toward a Unified Architecture of Streams  
 
 ---
