@@ -323,18 +323,3 @@ Continuity is structurally organized by phase coherence.
 The framework remains under mathematical refinement and empirical expansion.
 
 `;
-
-export default function Home() {
-  return (
-    <div className="page-wrapper">
-      <main className="page-container">
-        <ReactMarkdown
-          remarkPlugins={[remarkGfm, remarkMath]}
-          rehypePlugins={[rehypeRaw, rehypeKatex]}
-        >
-          {content}
-        </ReactMarkdown>
-      </main>
-    </div>
-  );
-}
