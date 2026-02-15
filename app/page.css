@@ -61,3 +61,37 @@ tbody tr:nth-child(odd) {
     white-space: nowrap;
   }
 }
+/* ===== KATEX FORMULAS RESPONSIVE ===== */
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 10px 0;
+}
+
+.katex-display > .katex {
+  white-space: nowrap;
+}
+
+.katex {
+  max-width: 100%;
+}
+
+/* ===== TABLE RESPONSIVE WRAPPER ===== */
+
+table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  -webkit-overflow-scrolling: touch;
+}
+
+table thead {
+  background: #e9edf5;
+}
+
+table th,
+table td {
+  white-space: nowrap;
+}
