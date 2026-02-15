@@ -1,3 +1,27 @@
+<head>
+  <link rel="canonical" href="https://www.karmils.com" />
+<script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "Karmil Streams – Phase-Oriented Paradigm of Continuous Systems",
+      "author": {
+        "@type": "Person",
+        "name": "Ferhat Karmil"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Karmil Streams"
+      },
+      "url": "https://www.karmils.com"
+    })
+  }}
+/>
+
+</head>
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
