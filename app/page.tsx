@@ -7,8 +7,8 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
 const content = `
-# Karmil Streams  
-## A Phase-Oriented Paradigm of Continuous Systems  
+# <center>Karmil Streams  
+## A Phase-Oriented Paradigm of Continuous Systems</center>  
 ### Toward a Unified Architecture of Streams  
 
 ---
