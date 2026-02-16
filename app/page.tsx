@@ -322,6 +322,56 @@ Continuity is structurally organized by phase coherence.
 
 The framework remains under mathematical refinement and empirical expansion.
 
+---
+
+## Publication Information
+
+**Title:**  
+*Karmil Streams — A Phase-Oriented Paradigm of Continuous Systems*
+
+**Author:**  
+Independent Phase Framework
+
+**Year:**  
+2026
+
+**Version:**  
+0.1 (Formative Research Edition)
+
+**Status:**  
+In structured theoretical formation and ongoing mathematical refinement.
+
+**Research Domain:**  
+Continuity Theory · Phase Systems · Structural Dynamics · Coherence Diagnostics
+
+**Institutional Affiliation:**  
+Independent Research Initiative
+
+**Correspondence:**  
+https://www.karmils.com
+
+---
+
+## Citation
+
+Karmil Streams. (2026). A Phase-Oriented Paradigm of Continuous Systems. Independent Phase Framework. Retrieved from https://www.karmils.com
+
+---
+
+## Declaration
+
+Suggested refinement:
+
+This work presents an evolving theoretical architecture.
+The formulations remain subject to mathematical formalization, algorithmic validation, and interdisciplinary scholarly evaluation.
+The Unified System of Streams (USS) is proposed as a structured research program rather than a completed formal theory.
+
+---
+
+© 2026 Karmil Streams       
+All rights reserved.
+
+
 `;
 
 export default function Home() {
