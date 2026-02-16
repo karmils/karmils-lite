@@ -131,7 +131,7 @@ Core parameters:
 - **D_φ** — phase density  
 - **E_str** — stream energy  
 - **D_str** — structural disfusion  
-- **K_l** — local coherence coefficient  
+- **L_str** — extended layer tension force across the entire Stream.  
 - **V_sw** — vortex structural velocity  
 - **K_eq** — equilibrium constant  
 - **F_ext** — external perturbation  
