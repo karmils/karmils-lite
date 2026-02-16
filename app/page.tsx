@@ -219,25 +219,26 @@ Prototype → Diagnostic Engine → Corpus-Based Research Platform
 
 | Theory | Author | Structural | Phase | Universal | Diagnostic |
 |--------|--------|-----------:|------:|----------:|-----------:|
-| Spectral Theory | Fourier | 5 | 4 | 8 | 7 |
-| Statistical Models | Pearson | 6 | 3 | 8 | 8 |
-| Information Theory | Shannon | 6 | 3 | 10 | 8 |
-| Control Theory | Wiener | 8 | 5 | 9 | 9 |
-| Dynamical Systems | Poincaré | 9 | 7 | 9 | 8 |
-| Nonlinear Dynamics | Strogatz | 8 | 7 | 9 | 8 |
-| Chaos Theory | Lorenz | 8 | 7 | 8 | 7 |
-| Systems Theory | von Bertalanffy | 7 | 5 | 9 | 7 |
-| Synergetics | Haken | 8 | 6 | 8 | 7 |
-| Catastrophe Theory | Thom | 7 | 6 | 7 | 6 |
-| Cybernetics | Ashby | 7 | 5 | 8 | 7 |
-| Network Science | Barabási | 7 | 5 | 9 | 7 |
-| Neural Oscillation | Freeman | 7 | 7 | 8 | 8 |
-| Music Set Theory | Forte | 6 | 4 | 6 | 5 |
+| Spectral Theory | Fourier | 9 | 6 | 9 | 9 |
+| Statistical Models | Pearson | 7 | 4 | 9 | 9 |
+| Information Theory | Shannon | 9 | 4 | 10 | 9 |
+| Control Theory | Wiener | 9 | 6 | 9 | 10 |
+| Dynamical Systems | Poincaré | 10 | 8 | 9 | 9 |
+| Nonlinear Dynamics | Strogatz | 9 | 9 | 9 | 9 |
+| Chaos Theory | Lorenz | 8 | 8 | 8 | 8 |
+| Systems Theory | von Bertalanffy | 7 | 6 | 9 | 7 |
+| Synergetics | Haken | 8 | 8 | 8 | 7 |
+| Catastrophe Theory | Thom | 8 | 8 | 7 | 7 |
+| Cybernetics | Ashby | 7 | 6 | 8 | 8 |
+| Network Science | Barabási | 7 | 6 | 9 | 8 |
+| Neural Oscillation | Freeman | 7 | 9 | 8 | 9 |
+| Music Set Theory | Forte | 6 | 4 | 6 | 6 |
 | Schenkerian | Schenker | 8 | 6 | 5 | 7 |
 | Transformational | Lewin | 8 | 7 | 6 | 7 |
 | Generative Tonal | Lerdahl | 7 | 5 | 6 | 6 |
 | Spectral Music | Grisey | 7 | 6 | 5 | 6 |
-| **Karmil Streams** | Independent | **9–10** | **9–10** | **10** | **9–10** |
+| Karmil Streams | Independent | 7–8 | 8–9 | 7–8 | 7–8 |
+
 
 ---
 
