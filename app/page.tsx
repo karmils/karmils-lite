@@ -329,10 +329,10 @@ The framework remains under mathematical refinement and empirical expansion.
 *Karmil Streams — A Phase-Oriented Paradigm of Continuous Systems*
 
 **Author:**  
-Independent Phase Framework
+Ferhat Karmil — Independent Researcher
 
 **Year:**  
-2026
+2025-2026
 
 **Version:**  
 0.1 (Formative Research Edition)
