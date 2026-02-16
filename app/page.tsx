@@ -246,7 +246,7 @@ Prototype → Diagnostic Engine → Corpus-Based Research Platform
 
 The radar chart below provides a visual representation of Structural, Phase, Universal, and Diagnostic scores for the listed theories. Karmil Streams demonstrates high phase depth and balanced structural and diagnostic properties.
 
-<img src="./radar_chart.png" alt="Radar Chart of Theories" style="width:100%; max-width:800px; display:block; margin:0 auto;" />
+<img src="/radar_chart.png" alt="Radar Chart of Theories" style="width:100%; max-width:800px; display:block; margin:0 auto;" />
 
 ---
 
