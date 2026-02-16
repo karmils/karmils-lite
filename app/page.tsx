@@ -117,9 +117,11 @@ Instability begins with phase divergence.
 - **outphase** — centrifugal expansion  
 - **rephase** — coherence restoration  
 - **diphase** — structural divergence  
-- **megaphase** — multi-layer equilibrium  
+- **megaphase** — multi-layer equilibrium 
+ 
 
 These tendencies represent only a partial subset of the broader phase-state architecture. The list provided here is not exhaustive; it illustrates selected structural directions within the phase field rather than the complete taxonomy of phase states.
+
 ---
 
 # 5. Structural Parameter System (SPS)
