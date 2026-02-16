@@ -102,10 +102,10 @@ Stability = phase alignment
 
 Phase encodes:
 
-- synchrony  
-- structural tension  
-- relational positioning  
-- coherence depth  
+- synchrony.  
+- structural tension.  
+- relational positioning.  
+- coherence depth.  
 
 Instability begins with phase divergence.
 
@@ -113,11 +113,11 @@ Instability begins with phase divergence.
 
 # 4. Core Phase Tendencies
 
-- **downphase** — centripetal concentration  
-- **outphase** — centrifugal expansion  
-- **rephase** — coherence restoration  
-- **diphase** — structural divergence  
-- **megaphase** — multi-layer equilibrium 
+- **downphase** — centripetal concentration.  
+- **outphase** — centrifugal expansion.  
+- **rephase** — coherence restoration.  
+- **diphase** — structural divergence.  
+- **megaphase** — multi-layer equilibrium. 
  
 
 These tendencies represent only a partial subset of the broader phase-state architecture. The list provided here is not exhaustive; it illustrates selected structural directions within the phase field rather than the complete taxonomy of phase states.
@@ -128,13 +128,13 @@ These tendencies represent only a partial subset of the broader phase-state arch
 
 Core parameters:
 
-- **D_φ** — phase density  
-- **E_str** — stream energy  
-- **D_str** — structural disfusion  
+- **D_φ** — phase density.  
+- **E_str** — stream energy.  
+- **D_str** — structural disfusion.  
 - **L_str** — extended layer tension force across the entire Stream.  
 - **V_sw** — vortex structural velocity  
-- **K_eq** — equilibrium constant  
-- **F_ext** — external perturbation  
+- **K_eq** — K_eq — equilibrium coefficient of the Stream.  
+- **F_ext** — external perturbation.  
 
 They define the measurable phase-field geometry of a stream.
 
