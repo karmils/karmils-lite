@@ -359,7 +359,7 @@ https://www.karmils.com
 
 ## Citation
 
-Karmil Streams. (2026). A Phase-Oriented Paradigm of Continuous Systems. Independent Phase Framework. Retrieved from https://www.karmils.com
+A Phase-Oriented Paradigm of Continuous Systems. Independent Phase Framework. Retrieved from https://www.karmils.com
 
 ---
 
