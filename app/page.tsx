@@ -118,7 +118,6 @@ Instability begins with phase divergence.
 - **rephase** — coherence restoration.  
 - **diphase** — structural divergence.  
 - **megaphase** — multi-layer equilibrium. 
- 
 
 These tendencies represent only a partial subset of the broader phase-state architecture. The list provided here is not exhaustive; it illustrates selected structural directions within the phase field rather than the complete taxonomy of phase states.
 
@@ -241,6 +240,13 @@ Prototype → Diagnostic Engine → Corpus-Based Research Platform
 | Spectral Music | Grisey | 7 | 6 | 5 | 6 |
 | Karmil Streams | Karmil | 8 | 9 | 8 | 8 |
 
+---
+
+## 9.2 Radar Visualization
+
+The radar chart below provides a visual representation of Structural, Phase, Universal, and Diagnostic scores for the listed theories. Karmil Streams demonstrates high phase depth and balanced structural and diagnostic properties.
+
+<img src="./radar_chart.png" alt="Radar Chart of Theories" style="width:100%; max-width:800px; display:block; margin:0 auto;" />
 
 ---
 
