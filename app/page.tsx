@@ -128,12 +128,12 @@ These tendencies represent only a partial subset of the broader phase-state arch
 
 Core parameters:
 
-- **D_φ** — phase density.  
+- **d_φ** — disphase: the parameter of phase misalignment within the Stream. 
 - **E_str** — stream energy.  
 - **D_str** — structural disfusion.  
 - **L_str** — extended layer tension force across the entire Stream.  
 - **V_sw** — vortex structural velocity  
-- **K_eq** — K_eq — equilibrium coefficient of the Stream.  
+- **K_eq** — equilibrium coefficient of the Stream.  
 - **F_ext** — external perturbation.  
 
 They define the measurable phase-field geometry of a stream.
