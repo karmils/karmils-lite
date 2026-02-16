@@ -1,9 +1,12 @@
 export default function robots() {
   return {
-    rules: {
-      userAgent: "*",
-      allow: "/"
-    },
+    rules: [
+      {
+        userAgent: "*",
+        allow: "/",
+        disallow: ["/api", "/private"]
+      }
+    ],
     sitemap: "https://www.karmils.com/sitemap.xml"
   };
 }
