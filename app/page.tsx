@@ -130,7 +130,7 @@ Core parameters:
 
 - **d_φ** — disphase: the parameter of phase misalignment within the Stream. 
 - **E_str** — stream energy.  
-- **D_str** — structural disfusion.  
+- **D_str** — the internal disfusion state of the entire Stream.  
 - **L_str** — extended layer tension force across the entire Stream.  
 - **V_sw** — vortex structural velocity  
 - **K_eq** — equilibrium coefficient of the Stream.  
