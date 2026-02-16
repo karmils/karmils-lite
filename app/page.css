@@ -156,6 +156,17 @@ body {
 }
 
 /* ======================= */
+/* IMAGE ADAPTIVITY        */
+/* ======================= */
+.page-container img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+}
+
+/* ======================= */
 /* MOBILE FIX              */
 /* ======================= */
 
@@ -180,7 +191,7 @@ body {
     font-size: 18px;
   }
 
-  /* Horizontal scroll */
+  /* Horizontal scroll for tables */
   .page-container table {
     display: block;
     overflow-x: auto;
