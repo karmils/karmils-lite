@@ -13,7 +13,65 @@ const content = `
 
 # Karmil Streams
 ## A Phase-Oriented Paradigm of Continuous Systems
-### Toward a Unified Architecture of Streams
+### Research Framework · Phase Theory · Diagnostic Infrastructure
+
+---
+
+## What is Karmil Streams?
+
+**Karmil Streams** is a developing scientific framework dedicated to the analysis of continuous dynamic systems through phase coherence, structural continuity, and multi-scale stream architecture.
+
+Unlike amplitude-dominant or purely statistical models, the paradigm proposes that:
+
+- stability is governed primarily by phase alignment  
+- continuity is a structural invariant  
+- systems behave as hierarchically embedded streams  
+- coherence gradients determine resilience and transformation  
+
+The project integrates theory, analytical infrastructure, and interdisciplinary research under a unified phase-oriented architecture.
+
+---
+
+## Core Scientific Orientation
+
+### Phase as Primary Structural Principle
+In conventional analytical models, phase is treated as secondary to energy or amplitude.
+
+In Karmil Streams:
+  
+**Phase is ontologically primary.**
+
+Stability ≠ maximal energy  
+Stability = sustained phase coherence  
+
+Phase encodes:
+- synchrony  
+- structural tension  
+- relational positioning  
+- coherence depth  
+
+Instability begins with phase divergence rather than energy collapse alone.
+
+---
+
+## Research Infrastructure: Stream Analyzer
+
+Karmil Streams is not only a theoretical paradigm but also an analytical infrastructure for phase-based diagnostics.
+
+Current modules include:
+- Pilot Analyzer  
+- Corpus Analyzer  
+- Analytical Regime Detection  
+- A/B Comparative Diagnostics  
+
+Development trajectory:  
+Prototype → Diagnostic Engine → Corpus-Based Research Platform
+
+The analyzer is designed to detect:
+- coherence ruptures  
+- regime transitions  
+- structural instability zones  
+- phase misalignment patterns  
 
 ---
 
@@ -68,13 +126,11 @@ A stream is defined as organized continuity characterized by:
 - structural tension dynamics  
 
 Classical ontology emphasizes:
-
 - object  
 - event  
 - state  
 
 Stream ontology emphasizes:
-
 - relational positioning  
 - cyclic coherence  
 - structural interdependence  
@@ -97,15 +153,11 @@ In Karmil Streams:
 
 **Phase is ontologically primary.**
 
-Stability ≠ maximal energy  
-Stability = phase alignment  
-
 Phase encodes:
-
-- synchrony.  
-- structural tension.  
-- relational positioning.  
-- coherence depth.  
+- synchrony  
+- structural tension  
+- relational positioning  
+- coherence depth  
 
 Instability begins with phase divergence.
 
@@ -113,13 +165,13 @@ Instability begins with phase divergence.
 
 # 4. Core Phase Tendencies
 
-- **downphase** — centripetal concentration.  
-- **outphase** — centrifugal expansion.  
-- **rephase** — coherence restoration.  
-- **diphase** — structural divergence.  
-- **megaphase** — multi-layer equilibrium. 
+- **downphase** — centripetal concentration  
+- **outphase** — centrifugal expansion  
+- **rephase** — coherence restoration  
+- **diphase** — structural divergence  
+- **megaphase** — multi-layer equilibrium  
 
-These tendencies represent only a partial subset of the broader phase-state architecture. The list provided here is not exhaustive; it illustrates selected structural directions within the phase field rather than the complete taxonomy of phase states.
+These tendencies represent a partial subset of a broader phase-state architecture and illustrate directional structures within the phase field rather than a complete taxonomy.
 
 ---
 
@@ -127,15 +179,15 @@ These tendencies represent only a partial subset of the broader phase-state arch
 
 Core parameters:
 
-- **d_φ** — disphase: the parameter of phase misalignment within the Stream. 
-- **E_str** — stream energy.  
-- **D_str** — the internal disfusion state of the entire Stream.  
-- **L_str** — extended layer tension force across the entire Stream.  
-- **V_sw** — formation of vortical motion and funnel structures within the Stream.  
-- **K_eq** — equilibrium coefficient of the Stream.  
-- **F_ext** — external force acting on the Stream.  
+- **d_φ** — disphase: phase misalignment within the Stream  
+- **E_str** — stream energy  
+- **D_str** — internal disfusion state of the Stream  
+- **L_str** — extended layer tension across the Stream  
+- **V_sw** — vortical and funnel structural motion  
+- **K_eq** — equilibrium coefficient  
+- **F_ext** — external force acting on the Stream  
 
-They define the measurable phase-field geometry of a stream.
+They define the measurable geometry of the phase-field structure.
 
 ---
 
@@ -144,7 +196,7 @@ They define the measurable phase-field geometry of a stream.
 ## 6.1 Stream Representation
 
 $$
-S(t) = f(E_{str}(t), D_\\varphi(t), \\varphi(t), K_l(t), F_{ext}(t))
+S(t) = f(E_{str}(t), D_{\\varphi}(t), \\varphi(t), K_l(t), F_{ext}(t))
 $$
 
 ## 6.2 Stability Functional
@@ -171,7 +223,7 @@ $$
 |\\Delta \\varphi(t)| > \\varphi_{crit} \\quad \\text{and} \\quad K_l(t) < K_{crit}
 $$
 
-These expressions are structural approximations under refinement.
+These expressions are structural approximations under ongoing refinement and formalization.
 
 ---
 
@@ -182,94 +234,17 @@ Multiplex Stream = Megastream.
 No stream exists in isolation.  
 Each stream is embedded within higher-order streams.
 
-Principles:
-
+Core principles:
 - hierarchical embedding  
 - scale coherence  
 - cross-stream correlation  
 - structural universality  
 
-USS proposes coherence as a cross-domain invariant.
+USS proposes coherence as a cross-domain invariant across continuous systems.
 
 ---
 
-# 8. Stream Analyzer
-
-An analytical infrastructure for phase-based diagnostics.
-
-Modules:
-
-- Pilot Analyzer  
-- Corpus Analyzer  
-- Analytical Regime Detection  
-- A/B Comparative Diagnostics  
-
-Transition:
-
-Prototype → Diagnostic Engine → Corpus-Based Research Platform
-
----
-
-# 9. Comparative Paradigm Analysis
-
-**Scale (0–10)**  
-0–3: weak  
-4–6: moderate  
-7–8: strong in-domain  
-9–10: structurally strong across domains  
-
-| Theory | Author | Structural | Phase | Universal | Diagnostic |
-|--------|--------|-----------:|------:|----------:|-----------:|
-| Spectral Theory | Fourier | 9 | 6 | 9 | 9 |
-| Statistical Models | Pearson | 7 | 4 | 9 | 9 |
-| Information Theory | Shannon | 9 | 4 | 10 | 9 |
-| Control Theory | Wiener | 9 | 6 | 9 | 10 |
-| Dynamical Systems | Poincaré | 10 | 8 | 9 | 9 |
-| Nonlinear Dynamics | Strogatz | 9 | 9 | 9 | 9 |
-| Chaos Theory | Lorenz | 8 | 8 | 8 | 8 |
-| Systems Theory | von Bertalanffy | 7 | 6 | 9 | 7 |
-| Synergetics | Haken | 8 | 8 | 8 | 7 |
-| Catastrophe Theory | Thom | 8 | 8 | 7 | 7 |
-| Cybernetics | Ashby | 7 | 6 | 8 | 8 |
-| Network Science | Barabási | 7 | 6 | 9 | 8 |
-| Neural Oscillation | Freeman | 7 | 9 | 8 | 9 |
-| Music Set Theory | Forte | 6 | 4 | 6 | 6 |
-| Schenkerian | Schenker | 8 | 6 | 5 | 7 |
-| Transformational | Lewin | 8 | 7 | 6 | 7 |
-| Generative Tonal | Lerdahl | 7 | 5 | 6 | 6 |
-| Spectral Music | Grisey | 7 | 6 | 5 | 6 |
-| Karmil Streams | Karmil | 8 | 9 | 8 | 8 |
-
----
-
-## 9.2 Radar Visualization
-
-The radar chart below provides a visual representation of Structural, Phase, Universal, and Diagnostic scores for the listed theories. Karmil Streams demonstrates high phase depth and balanced structural and diagnostic properties.
-
-<img src="/radar_chart.png" alt="Radar Chart of Theories" style="width:100%; max-width:800px; display:block; margin:0 auto;" />
-
----
-
-## 9.1 Academic Justification of Scores
-
-**Structural Integrity**  
-Measures continuity preservation.  
-Karmil Streams treats continuity as primary invariant.
-
-**Phase Depth**  
-Assesses whether phase is structural driver.  
-Here phase coherence is central organizing principle.
-
-**Universality**  
-Cross-domain applicability.  
-Streams operate wherever continuity + phase relations exist.
-
-**Diagnostic Capacity**  
-Ability to detect regime transitions and coherence ruptures.
-
----
-
-# 10. Interdisciplinary Implications
+# 8. Interdisciplinary Implications
 
 ## Medicine
 - cardiac rhythm coherence diagnostics  
@@ -288,7 +263,7 @@ Ability to detect regime transitions and coherence ruptures.
 
 ## Psychology / Psychoanalysis
 - cognitive regime transitions  
-- structural coherence loss and repair  
+- structural coherence loss and restoration  
 
 ## Astrophysics / Astronomy
 - cyclic stellar dynamics  
@@ -300,16 +275,14 @@ Ability to detect regime transitions and coherence ruptures.
 
 ---
 
-# 11. Development Status
+# 9. Development Status
 
 Established:
-
 - phase ontology  
 - parameter architecture  
-- analyzer infrastructure  
+- analytical infrastructure  
 
 Ongoing:
-
 - mathematical formalization  
 - algorithmic validation  
 - empirical corpus expansion  
@@ -321,14 +294,12 @@ The paradigm remains in formative scientific development.
 # Conclusion
 
 Karmil Streams proposes:
+- a phase-oriented ontology of continuity  
+- a unified architecture of hierarchical streams  
+- coherence-based diagnostics for complex systems  
 
-- phase-oriented ontology  
-- unified structural stream architecture  
-- coherence-based diagnostics  
-
-Continuity is structurally organized by phase coherence.
-
-The framework remains under mathematical refinement and empirical expansion.
+Continuity is structurally organized by phase coherence.  
+The framework is an evolving research program undergoing mathematical and interdisciplinary refinement.
 
 ---
 
@@ -338,42 +309,26 @@ The framework remains under mathematical refinement and empirical expansion.
 *Karmil Streams — A Phase-Oriented Paradigm of Continuous Systems*
 
 **Author:**  
-Ferhat Karmil — Independent Researcher
+Ferhat Karmil — Independent Researcher  
 
 **Year:**  
-2025-2026
+2025–2026  
 
 **Status:**  
-In structured theoretical formation and ongoing mathematical refinement.
+Structured theoretical formation and ongoing refinement  
 
 **Research Domain:**  
-Continuity Theory · Phase Systems · Structural Dynamics · Coherence Diagnostics
+Continuity Theory · Phase Systems · Structural Dynamics · Coherence Diagnostics  
 
 **Institutional Affiliation:**  
-Independent Research Initiative
+Independent Research Initiative  
 
 **Correspondence:**  
-https://www.karmils.com
+https://www.karmils.com  
 
 ---
 
-## Citation
-
-A Phase-Oriented Paradigm of Continuous Systems. Independent Phase Framework. Retrieved from https://www.karmils.com
-
----
-
-## Declaration
-
-Suggested refinement:
-
-This work presents an evolving theoretical architecture.
-The formulations remain subject to mathematical formalization, algorithmic validation, and interdisciplinary scholarly evaluation.
-The Unified System of Streams (USS) is proposed as a structured research program rather than a completed formal theory.
-
----
-
-© 2026 Karmil Streams       
+© 2026 Karmil Streams  
 All rights reserved.
 
 `;
