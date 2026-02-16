@@ -116,11 +116,10 @@ Instability begins with phase divergence.
 - **downphase** — centripetal concentration  
 - **outphase** — centrifugal expansion  
 - **rephase** — coherence restoration  
-- **dephase** — structural divergence  
-- **mega-phase** — multi-layer equilibrium  
+- **diphase** — structural divergence  
+- **megaphase** — multi-layer equilibrium  
 
-These tendencies describe directional structural regimes rather than binary states.
-
+These tendencies represent only a partial subset of the broader phase-state architecture. The list provided here is not exhaustive; it illustrates selected structural directions within the phase field rather than the complete taxonomy of phase states.
 ---
 
 # 5. Structural Parameter System (SPS)
@@ -370,7 +369,6 @@ The Unified System of Streams (USS) is proposed as a structured research program
 
 © 2026 Karmil Streams       
 All rights reserved.
-
 
 `;
 
