@@ -334,9 +334,6 @@ Ferhat Karmil — Independent Researcher
 **Year:**  
 2025-2026
 
-**Version:**  
-0.1 (Formative Research Edition)
-
 **Status:**  
 In structured theoretical formation and ongoing mathematical refinement.
 
