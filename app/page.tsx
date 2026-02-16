@@ -237,7 +237,7 @@ Prototype → Diagnostic Engine → Corpus-Based Research Platform
 | Transformational | Lewin | 8 | 7 | 6 | 7 |
 | Generative Tonal | Lerdahl | 7 | 5 | 6 | 6 |
 | Spectral Music | Grisey | 7 | 6 | 5 | 6 |
-| Karmil Streams | Independent | 8 | 9 | 8 | 8 |
+| Karmil Streams | Karmil | 8 | 9 | 8 | 8 |
 
 
 ---
