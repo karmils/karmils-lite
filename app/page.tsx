@@ -50,10 +50,11 @@ The objective is not the replacement of existing paradigms, but the introduction
 The framework includes a dedicated analytical environment designed for phase-based diagnostics of continuous systems.
 
 ### Core Modules
-- Pilot Analyzer  
-- Corpus Analyzer  
-- Regime Detection Engine  
-- A/B Comparative Diagnostics  
+Pilot Analyzer — real-time analysis
+Corpus Analyzer — dataset analysis
+Regime Detection Engine — regime detection
+A/B — comparative diagnostics
+Analysis — system overview
 
 ### Functional Capabilities
 - detection of coherence ruptures  
